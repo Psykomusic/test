@@ -13,5 +13,5 @@
         "url": "https://gitlab.com/catie_vr/Blink_lib.git"
     },
     "frameworks": "mbed",
-    "platforms": "freescalekinetis, ststm32",
+    "platforms": "freescalekinetis, ststm32"
 }
